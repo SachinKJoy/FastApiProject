@@ -22,7 +22,7 @@ This is a simple FastAPI application for managing books and reviews. It provides
     for Powershell
     - Run  "python -m venv venv" to create a virtual env named "venv"
 
-    - then run "venv/Scripts/activate"
+    - then run "venv/Scripts/activate" to activate
 
 
 4. Install dependencies using pip:
